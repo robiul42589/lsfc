@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "ভূমি সেবা কেন্দ্র অর্গানাইজার - নন্দীগ্রাম",
+  "short_name": "ভূমি সেবা",
+  "description": "উপজেলা ডিজিটাল সেন্টার ও ভূমি সেবা কেন্দ্রের দৈনন্দিন হিসাব-নিকাশ, কর্মচারী ব্যবস্থাপনা, ডিজিটাল হাজিরা, বেতন ও পে-স্লিপ জেনারেশন অর্গানাইজার।",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=192&auto=format&fit=crop&q=80",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=512&auto=format&fit=crop&q=80",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
